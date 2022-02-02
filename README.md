@@ -1,4 +1,5 @@
 # rumah-makan
+![ERD](./erd-rumah-makan.png)
 in this project i use Golang, MySQL, JWT for authorization.
 
 [![Go.Dev reference](https://img.shields.io/badge/gorm-reference-blue?logo=go&logoColor=blue)](https://pkg.go.dev/gorm.io/gorm?tab=doc)
